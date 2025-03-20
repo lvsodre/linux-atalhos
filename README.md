@@ -167,3 +167,6 @@ Sinta-se à vontade para contribuir com este repositório adicionando mais atalh
 
 🔗 [LinkedIn](https://linkedin.com/in/lvsodre)  
 💻 [GitHub](https://github.com/lvsodre)
+
+Feito com ❤️ por Leandro Venturini Sodré
+
